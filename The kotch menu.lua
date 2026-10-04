@@ -8,9 +8,9 @@ local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 
 local Window = Rayfield:CreateWindow({
-    Name = "Моё меню",
-    LoadingTitle = "Загрузка...",
-    LoadingSubtitle = "Custom Kick",
+    Name = "The kotch kick",
+    LoadingTitle = "The kotch kick",
+    LoadingSubtitle = "By kupa scripts",
     ConfigurationSaving = {
         Enabled = false
     }
